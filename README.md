@@ -46,14 +46,7 @@ This project was built to improve front-end development skills and create a real
 
 ---
 
-## 🔮 Future Improvements
 
-* 🔐 User authentication
-* 💳 Payment integration
-* ⚙️ Backend integration (Spring Boot / Node.js)
-* 🛒 Advanced cart system
-
----
 
 ## 🌐 Connect with Me
 
@@ -66,6 +59,3 @@ This project was built to improve front-end development skills and create a real
 **Ambrin Begam**
 B.Tech CSE | Aspiring Software Developer
 
----
-
-⭐ If you like this project, give it a star!
